@@ -1,0 +1,4 @@
+pooja,12345678,pooja@gmail.com,haldwnai
+pooja,12345678,pooja@gmail.com,haldwani
+ruhi,0865956393,ruhi@gmail.com,haldwani
+punam,53865495,punam@gmail.com,nainital
